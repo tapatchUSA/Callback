@@ -2,7 +2,7 @@
 <h1 align="center">Callback</h1>
 <p align="center"><b>Clips your best moments by itself.</b></p>
 <p align="center">Game Clipper · Windows 10/11 · x64 · ~23 MB · Free for personal use</p>
-<p align="center"><a href="https://github.com/tapatchUSA/Callback/releases/latest"><b>⬇ Download Callback 1.0.0</b></a> &nbsp;·&nbsp; <a href="https://tapatch.com/tools/callback/">tapatch.com/tools/callback</a></p>
+<p align="center"><a href="https://github.com/tapatchUSA/Callback/releases/latest"><b>⬇ Download Callback 1.0.1</b></a> &nbsp;·&nbsp; <a href="https://tapatch.com/tools/callback/">tapatch.com/tools/callback</a></p>
 
 <p align="center">
 <img src="screenshots/callback-v1.0.0-live.png" alt="Callback — Watching: what it hears, live"><br>
@@ -48,21 +48,18 @@ Recorded both monitors at once? Callback finds the screen with the game and show
 
 - Windows 10/11 only. Records screens on one graphics card at a time; video that's protected from copying (some streaming apps) shows as black. Callback finds moments by their sound, so a silent moment needs Alt+F9. Auto captions download a speech model once (about 570 MB) and are fastest with a graphics card. The seconds it keeps are held in memory: the longer the clips, the more memory it uses.
 
-## What's new in 1.0.0
+## What's new in 1.0.1
 
-- First release
-- Saves clips by itself when it hears laughing, screaming, cheering, crying or yelling
-- Records with your graphics card's encoder, any frame rate up to 240 fps, one screen or all
-- Clips keep your mic and the game on separate sound tracks, plus a mix of both
-- Montages from your clips or any videos, with an editor: trim, split, speed, volume, transitions, color, crop, zoom, text and music
-- Word-by-word auto captions, made on your PC
-- 10 languages, 4 themes
+- New Custom theme: pick your own accent, background, panel and text colors
+- Background pictures and GIFs: add as many as you like in Settings, tick the ones to show (or Select all), and the ticked ones take turns
+- Sliders set how strong the picture is and how see-through the panels are; turn it off any time
+- The installer's license text matches the current Terms
 
 Release notes for every version are on the [Releases](https://github.com/tapatchUSA/Callback/releases) page and in [release-notes/](release-notes/).
 
 ## Install
 
-1. Download **Callback-Setup-1.0.0.exe** from the [latest release](https://github.com/tapatchUSA/Callback/releases/latest) or from [tapatch.com](https://tapatch.com/tools/callback/).
+1. Download **Callback-Setup-1.0.1.exe** from the [latest release](https://github.com/tapatchUSA/Callback/releases/latest) or from [tapatch.com](https://tapatch.com/tools/callback/).
 2. Run it. The installer and the app come in 10 languages.
 3. Accept the Terms of Service on first launch.
 
@@ -79,15 +76,16 @@ scoop install tapatch/callback
 
 | Version | Released | Installer | VirusTotal | SHA-256 |
 |---|---|---|---|---|
-| [1.0.0](https://github.com/tapatchUSA/Callback/releases/tag/v1.0.0) | 2026-10-30 | [Callback-Setup-1.0.0.exe](https://github.com/tapatchUSA/Callback/releases/download/v1.0.0/Callback-Setup-1.0.0.exe) | [0 / 71](https://www.virustotal.com/gui/file/3a0c36c010b4ebbed6ae107393d126346dd9808d8856a2549b225d234eea6d3a/detection) | `3a0c36c010b4ebbe…` |
+| [1.0.1](https://github.com/tapatchUSA/Callback/releases/tag/v1.0.1) | 2026-11-04 | [Callback-Setup-1.0.1.exe](https://github.com/tapatchUSA/Callback/releases/download/v1.0.1/Callback-Setup-1.0.1.exe) | [0 / 67](https://www.virustotal.com/gui/file/09a6d059b4663a5d2ac7aa4349d87b0e10732c4bf105f9c7d77517fd16c5dc6c/detection) | `09a6d059b4663a5d…` |
+| [1.0.0](https://github.com/tapatchUSA/Callback/releases/tag/v1.0.0) | 2026-10-31 | [Callback-Setup-1.0.0.exe](https://github.com/tapatchUSA/Callback/releases/download/v1.0.0/Callback-Setup-1.0.0.exe) | [0 / 71](https://www.virustotal.com/gui/file/3a0c36c010b4ebbed6ae107393d126346dd9808d8856a2549b225d234eea6d3a/detection) | `3a0c36c010b4ebbe…` |
 
 ## Security
 
-Every installer is scanned on VirusTotal before release. Callback 1.0.0: **0 / 71** engines flag it · [view report](https://www.virustotal.com/gui/file/3a0c36c010b4ebbed6ae107393d126346dd9808d8856a2549b225d234eea6d3a/detection)
+Every installer is scanned on VirusTotal before release. Callback 1.0.1: **0 / 67** engines flag it · [view report](https://www.virustotal.com/gui/file/09a6d059b4663a5d2ac7aa4349d87b0e10732c4bf105f9c7d77517fd16c5dc6c/detection)
 
 **SHA-256**
 ```
-3a0c36c010b4ebbed6ae107393d126346dd9808d8856a2549b225d234eea6d3a
+09a6d059b4663a5d2ac7aa4349d87b0e10732c4bf105f9c7d77517fd16c5dc6c
 ```
 
 ## Built with

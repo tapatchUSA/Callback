@@ -2,7 +2,7 @@
 <h1 align="center">Callback</h1>
 <p align="center"><b>Clips your best moments by itself.</b></p>
 <p align="center">Game Clipper · Windows 10/11 · x64 · ~23 MB · Free for personal use</p>
-<p align="center"><a href="https://github.com/tapatchUSA/Callback/releases/latest"><b>⬇ Download Callback 1.0.1</b></a> &nbsp;·&nbsp; <a href="https://tapatch.com/tools/callback/">tapatch.com/tools/callback</a></p>
+<p align="center"><a href="https://github.com/tapatchUSA/Callback/releases/latest"><b>⬇ Download Callback 1.0.2</b></a> &nbsp;·&nbsp; <a href="https://tapatch.com/tools/callback/">tapatch.com/tools/callback</a></p>
 
 <p align="center">
 <img src="screenshots/callback-v1.0.0-live.png" alt="Callback — Watching: what it hears, live"><br>
@@ -48,18 +48,15 @@ Recorded both monitors at once? Callback finds the screen with the game and show
 
 - Windows 10/11 only. Records screens on one graphics card at a time; video that's protected from copying (some streaming apps) shows as black. Callback finds moments by their sound, so a silent moment needs Alt+F9. Auto captions download a speech model once (about 570 MB) and are fastest with a graphics card. The seconds it keeps are held in memory: the longer the clips, the more memory it uses.
 
-## What's new in 1.0.1
+## What's new in 1.0.2
 
-- New Custom theme: pick your own accent, background, panel and text colors
-- Background pictures and GIFs: add as many as you like in Settings, tick the ones to show (or Select all), and the ticked ones take turns
-- Sliders set how strong the picture is and how see-through the panels are; turn it off any time
-- The installer's license text matches the current Terms
+- The English text now uses American spelling everywhere
 
 Release notes for every version are on the [Releases](https://github.com/tapatchUSA/Callback/releases) page and in [release-notes/](release-notes/).
 
 ## Install
 
-1. Download **Callback-Setup-1.0.1.exe** from the [latest release](https://github.com/tapatchUSA/Callback/releases/latest) or from [tapatch.com](https://tapatch.com/tools/callback/).
+1. Download **Callback-Setup-1.0.2.exe** from the [latest release](https://github.com/tapatchUSA/Callback/releases/latest) or from [tapatch.com](https://tapatch.com/tools/callback/).
 2. Run it. The installer and the app come in 10 languages.
 3. Accept the Terms of Service on first launch.
 
@@ -76,16 +73,17 @@ scoop install tapatch/callback
 
 | Version | Released | Installer | VirusTotal | SHA-256 |
 |---|---|---|---|---|
+| [1.0.2](https://github.com/tapatchUSA/Callback/releases/tag/v1.0.2) | 2026-11-07 | [Callback-Setup-1.0.2.exe](https://github.com/tapatchUSA/Callback/releases/download/v1.0.2/Callback-Setup-1.0.2.exe) | [0 / 69](https://www.virustotal.com/gui/file/e11d61fe1b673231785d078919315be333afd838916192d328a2358588bd1db8/detection) | `e11d61fe1b673231…` |
 | [1.0.1](https://github.com/tapatchUSA/Callback/releases/tag/v1.0.1) | 2026-11-05 | [Callback-Setup-1.0.1.exe](https://github.com/tapatchUSA/Callback/releases/download/v1.0.1/Callback-Setup-1.0.1.exe) | [0 / 67](https://www.virustotal.com/gui/file/09a6d059b4663a5d2ac7aa4349d87b0e10732c4bf105f9c7d77517fd16c5dc6c/detection) | `09a6d059b4663a5d…` |
 | [1.0.0](https://github.com/tapatchUSA/Callback/releases/tag/v1.0.0) | 2026-10-31 | [Callback-Setup-1.0.0.exe](https://github.com/tapatchUSA/Callback/releases/download/v1.0.0/Callback-Setup-1.0.0.exe) | [0 / 71](https://www.virustotal.com/gui/file/3a0c36c010b4ebbed6ae107393d126346dd9808d8856a2549b225d234eea6d3a/detection) | `3a0c36c010b4ebbe…` |
 
 ## Security
 
-Every installer is scanned on VirusTotal before release. Callback 1.0.1: **0 / 67** engines flag it · [view report](https://www.virustotal.com/gui/file/09a6d059b4663a5d2ac7aa4349d87b0e10732c4bf105f9c7d77517fd16c5dc6c/detection)
+Every installer is scanned on VirusTotal before release. Callback 1.0.2: **0 / 69** engines flag it · [view report](https://www.virustotal.com/gui/file/e11d61fe1b673231785d078919315be333afd838916192d328a2358588bd1db8/detection)
 
 **SHA-256**
 ```
-09a6d059b4663a5d2ac7aa4349d87b0e10732c4bf105f9c7d77517fd16c5dc6c
+e11d61fe1b673231785d078919315be333afd838916192d328a2358588bd1db8
 ```
 
 ## Built with

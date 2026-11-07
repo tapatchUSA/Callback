@@ -76,7 +76,7 @@ scoop install tapatch/callback
 
 | Version | Released | Installer | VirusTotal | SHA-256 |
 |---|---|---|---|---|
-| [1.0.1](https://github.com/tapatchUSA/Callback/releases/tag/v1.0.1) | 2026-11-04 | [Callback-Setup-1.0.1.exe](https://github.com/tapatchUSA/Callback/releases/download/v1.0.1/Callback-Setup-1.0.1.exe) | [0 / 67](https://www.virustotal.com/gui/file/09a6d059b4663a5d2ac7aa4349d87b0e10732c4bf105f9c7d77517fd16c5dc6c/detection) | `09a6d059b4663a5d…` |
+| [1.0.1](https://github.com/tapatchUSA/Callback/releases/tag/v1.0.1) | 2026-11-05 | [Callback-Setup-1.0.1.exe](https://github.com/tapatchUSA/Callback/releases/download/v1.0.1/Callback-Setup-1.0.1.exe) | [0 / 67](https://www.virustotal.com/gui/file/09a6d059b4663a5d2ac7aa4349d87b0e10732c4bf105f9c7d77517fd16c5dc6c/detection) | `09a6d059b4663a5d…` |
 | [1.0.0](https://github.com/tapatchUSA/Callback/releases/tag/v1.0.0) | 2026-10-31 | [Callback-Setup-1.0.0.exe](https://github.com/tapatchUSA/Callback/releases/download/v1.0.0/Callback-Setup-1.0.0.exe) | [0 / 71](https://www.virustotal.com/gui/file/3a0c36c010b4ebbed6ae107393d126346dd9808d8856a2549b225d234eea6d3a/detection) | `3a0c36c010b4ebbe…` |
 
 ## Security
